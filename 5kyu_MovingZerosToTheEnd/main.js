@@ -25,5 +25,4 @@ function moveZeros(arr) {
   return newArray;
 }
 
-// console.log(moveZeros[1,2,0,1,0,1,0,3,0,1]);
 console.log(moveZeros([1,2,0,1,0,1,0,3,0,1]));

@@ -11,5 +11,5 @@
 
 
 ### Day 3: 14. May, 2022 - Saturday
-**Today's Progress**: 
-**Thoughts** 
+**Today's Progress**: Another 3 5 kyu katas were completed today.
+**Thoughts** If I keep it up, I will reach the 5kyu level within a week.
