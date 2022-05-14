@@ -10,6 +10,11 @@ pigIt('Hello world !');     // elloHay orldway !
 function pigIt(str){
   pigItArray = str.split(' ');
   console.log(pigItArray)
-}
 
+  for(let i=0;i<pigItArray.length;i++){
+    if (/^[A-Za-z]+$/.test(pigItArray[i])) {
+      pigItArray[i] = `${pigItArray[i].substr(1)}${pigItArray[i].substr(0, 1)}ay`
+    }
+  } return pigItArray.join(' ');
+} 
 console.log(pigIt('Hello world !'));
