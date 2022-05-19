@@ -1,44 +1,33 @@
-console.log("Working...");
-
-/*
-We need to sum big numbers and we require your help.
-
-Write a function that returns the sum of two numbers. The input numbers are strings and the function must return a string.
-
-Example
-add("123", "321"); -> "444"
-add("11", "99");   -> "110"
-Notes
-The input numbers are big.
-The input is a string of only digits
-The numbers are positives
-*/
-
 function add(a, b) {
     
     let aLength = a.length;
     let bLength = b.length;
-    let MaxLength = aLength;
+    let maxLength = aLength;
+    let carryOver = 0;
+    let result = 0;
+    let sumNumbers = '';
 
-    console.log(aLength)
-    console.log(bLength)
 
-    b = b.padStart(aLength-bLength, "0");
-    /*
     if (aLength > bLength){
-        MaxLength = aLength;
-        b = b.padStart(aLength-bLength, "0");
+        maxLength = aLength;
+        b = b.padStart(aLength, "0");
     } else if(aLength < bLength){
-        MaxLength = bLength;
-        a = a.padStart(bLength-aLength, "0");
+        maxLength = bLength;
+        a = a.padStart(bLength, "0");
     } 
-    */
-    console.log(a)
-    console.log(b)
-    console.log(aLength-bLength)
 
-   
+    
+    for(i=maxLength-1;i>=0;i--){
+        result = Number(a[i]) + Number(b[i]) + carryOver;
+        carryOver = result > 9 ? 1 : 0;
+        result = result % 10;
+        sumNumbers = sumNumbers + result.toString();
+    }
+  
+    if (carryOver === 1){
+        sumNumbers = sumNumbers + '1';
+    }
 
+    sumNumbers = sumNumbers.split("").reverse().join("");
+    return sumNumbers
   }
-
-  add('2222', '44');
