@@ -53,3 +53,38 @@
 ### Day 11: 22. May, 2022 - Sunday
 **Today's Progress**: Reached 5 kyu in JavaScript in CodeWars and started to learn Node.js.
 **Thoughts** The next level seems channelging, I need a clear head to start.
+
+
+### Day 12: 23. May, 2022 - Monday
+**Today's Progress**: Completed a 4kyu JS kata and 2 couple of 7kyu SQL katas too
+**Thoughts** The SQL is more difficult than I thought, but not a huge issue.
+
+
+### Day 13: 24. May, 2022 - Tuesday
+**Today's Progress**: 
+**Thoughts** 
+
+
+### Day 14: 25. May, 2022 - Wednesday
+**Today's Progress**: 
+**Thoughts** 
+
+
+### Day 15: 26. May, 2022 - Thursday
+**Today's Progress**: 
+**Thoughts** 
+
+
+### Day 16: 27. May, 2022 - Friday
+**Today's Progress**: 
+**Thoughts** 
+
+
+### Day 17: 28. May, 2022 - Saturday
+**Today's Progress**: 
+**Thoughts** 
+
+
+### Day 18: 29. May, 2022 - Sunday
+**Today's Progress**: 
+**Thoughts** 
