@@ -61,23 +61,23 @@
 
 
 ### Day 13: 24. May, 2022 - Tuesday
-**Today's Progress**: 
-**Thoughts** 
+**Today's Progress**: Learned about databases and SQL. I am started to solve SQL katas on Codewars now.
+**Thoughts** So far, so good, nothing difficult
 
 
 ### Day 14: 25. May, 2022 - Wednesday
-**Today's Progress**: 
-**Thoughts** 
+**Today's Progress**: We started to put together the Node, API and database topics.
+**Thoughts** It is tough. Today we had the first anouncement of a fellow bootcamper to give it up.
 
 
 ### Day 15: 26. May, 2022 - Thursday
-**Today's Progress**: 
-**Thoughts** 
+**Today's Progress**: Doe to the chaos we had yesterday, they broke down the Wednesday tasks to smaller pieces
+**Thoughts** This is how it should have been done in the first place.
 
 
 ### Day 16: 27. May, 2022 - Friday
-**Today's Progress**: 
-**Thoughts** 
+**Today's Progress**: Almost finished the Hackatlon task of building an API serving a hosted database.
+**Thoughts** Not easy, but it start making sense.
 
 
 ### Day 17: 28. May, 2022 - Saturday
