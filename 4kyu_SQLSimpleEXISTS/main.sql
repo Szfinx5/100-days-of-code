@@ -1,0 +1,1 @@
+select id, name from departments where exists (select * from sales where sales.department_id = departments.id and sales.price > 98)

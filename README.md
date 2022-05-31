@@ -81,10 +81,45 @@
 
 
 ### Day 17: 28. May, 2022 - Saturday
+**Today's Progress**: I have sone a few kata just to keep my mind occupied.
+**Thoughts** Having a bit of rest today.
+
+
+### Day 18: 29. May, 2022 - Sunday
+**Today's Progress**: Progressed to 4kyp on Codewars thanks for the SQL katas I am duing recently.
+**Thoughts** 
+
+
+## Day 19: 30. May, 2022 - Monday
+**Today's Progress**: We are learning about the Test driven development aproach. 
+**Thoughts** That is how the development should be done everywhere.
+
+
+### Day 20: 31. May, 2022 - Tuesday
+**Today's Progress**: Continued to learn testing and completed a few SQL kata
+**Thoughts** My goal for this week is to reach the 5kyu in SQL too.
+
+
+### Day 21: 01. June, 2022 - Wednesday
 **Today's Progress**: 
 **Thoughts** 
 
 
-### Day 18: 29. May, 2022 - Sunday
+### Day 22: 02. June, 2022 - Thursday
 **Today's Progress**: 
+**Thoughts** 
+
+
+### Day 23: 03. June, 2022 - Friday
+**Today's Progress**: 
+**Thoughts** 
+
+
+### Day 24: 04. June, 2022 - Saturday
+**Today's Progress**: 
+**Thoughts** 
+
+
+### Day 25: 05. June, 2022 - Sunday
+**Today's Progress**:
 **Thoughts** 
