@@ -15,7 +15,7 @@
 **Thoughts** If I keep it up, I will reach the 5kyu level within a week.
 
 
-### Day 4: 15. May, 2022 - Sunday
+## Day 4: 15. May, 2022 - Sunday
 **Today's Progress**: Solved another 5 kyu kata and started a personal landing page.
 **Thoughts** I would need to practice my UX/UX skills as I am way more confortable with the HTML and CSS.
 
@@ -50,7 +50,7 @@
 **Thoughts** The next level seems channelging, I need a clear head to start.
 
 
-### Day 11: 22. May, 2022 - Sunday
+## Day 11: 22. May, 2022 - Sunday
 **Today's Progress**: Reached 5 kyu in JavaScript in CodeWars and started to learn Node.js.
 **Thoughts** The next level seems channelging, I need a clear head to start.
 
@@ -85,12 +85,12 @@
 **Thoughts** Having a bit of rest today.
 
 
-### Day 18: 29. May, 2022 - Sunday
+## Day 18: 29. May, 2022 - Sunday
 **Today's Progress**: Progressed to 4kyp on Codewars thanks for the SQL katas I am duing recently.
 **Thoughts** 
 
 
-## Day 19: 30. May, 2022 - Monday
+### Day 19: 30. May, 2022 - Monday
 **Today's Progress**: We are learning about the Test driven development aproach. 
 **Thoughts** That is how the development should be done everywhere.
 
@@ -120,6 +120,6 @@
 **Thoughts** 
 
 
-### Day 25: 05. June, 2022 - Sunday
+## Day 25: 05. June, 2022 - Sunday
 **Today's Progress**:
 **Thoughts** 
