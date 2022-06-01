@@ -96,13 +96,13 @@
 
 
 ### Day 20: 31. May, 2022 - Tuesday
-**Today's Progress**: Continued to learn testing and completed a few SQL kata
+**Today's Progress**: Continued to learn testing (Cypress) and completed a few SQL kata
 **Thoughts** My goal for this week is to reach the 5kyu in SQL too.
 
 
 ### Day 21: 01. June, 2022 - Wednesday
-**Today's Progress**: 
-**Thoughts** 
+**Today's Progress**: Today we compared the Jest and Turbotest and I have completed a few katase, mainly SQL
+**Thoughts** The TDD is key to reduce the bugs and maximise customer satisfaction. 
 
 
 ### Day 22: 02. June, 2022 - Thursday
