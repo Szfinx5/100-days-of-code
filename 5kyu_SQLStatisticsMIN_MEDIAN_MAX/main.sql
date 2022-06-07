@@ -1,0 +1,1 @@
+select min(score), max(score), percentile_cont(0.5) within group (order by score) AS median from result;
