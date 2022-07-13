@@ -18,4 +18,4 @@ I am completing katas in JavaScript and SQL languages.
 - **29. May 2022:** Reached 4 kyu overall (JavaScript 5 kyu, SQL 7 kyu)
 - **02. Jun 2022:** Became 4 kyu in JavaScript
 - **04. Jun 2022:** Reached the 6 kyu level in SQL
-- **26. Jun 2022:** Became 5 kyu in SQL
+- **26. Jun 2022:** Became 5 kyu in SQL    
